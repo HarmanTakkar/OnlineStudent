@@ -1,0 +1,16 @@
+SMAP
+dataFetch_jsp.java
+JSP
+*S JSP
+*F
++ 0 dataFetch.jsp
+dataFetch.jsp
+*L
+5,20:46
+25,14:67
+38,2:81
+40,3:83,3
+43,2:92
+45,7:95
+51,4:102
+*E
